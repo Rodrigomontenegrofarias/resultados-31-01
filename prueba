@@ -10,16 +10,15 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      " Caso_de_perder_data.ipynb              exp_final_7.0.ipynb\r\n",
-      "'Copia de Caso_de_perder_data..ipynb'   exp_final_8.0.ipynb\r\n",
-      " \u001b[0m\u001b[01;34mDATABASE-PRIVATE\u001b[0m/                      exp_final_9.0.ipynb\r\n",
-      " exp_final_10.0.ipynb                   guardar-modelos-ejecutados.ipynb\r\n",
-      " exp_final_1.0.ipynb                    \u001b[01;34mprueba\u001b[0m/\r\n",
+      " Caso_de_perder_data.ipynb              exp_final_6.0.ipynb\r\n",
+      "'Copia de Caso_de_perder_data..ipynb'   exp_final_7.0.ipynb\r\n",
+      " \u001b[0m\u001b[01;34mDATABASE-PRIVATE\u001b[0m/                      exp_final_8.0.ipynb\r\n",
+      " exp_final_10.0.ipynb                   exp_final_9.0.ipynb\r\n",
+      " exp_final_1.0.ipynb                    guardar-modelos-ejecutados.ipynb\r\n",
       " exp_final_2.0.ipynb                    requirements.txt\r\n",
       " exp_final_3.0.ipynb                    \u001b[01;34mresultados-31-01\u001b[0m/\r\n",
       " exp_final_4.0.ipynb                    Resultados_final.2.0.ipynb\r\n",
-      " exp_final_5.0.ipynb                    script.sh\r\n",
-      " exp_final_6.0.ipynb\r\n"
+      " exp_final_5.0.ipynb                    script.sh\r\n"
      ]
     }
    ],
@@ -37,7 +36,8 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "/root/notebooks/prueba\n"
+      "[Errno 2] No such file or directory: 'prueba'\n",
+      "/root/notebooks\n"
      ]
     }
    ],
@@ -55,7 +55,15 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\u001b[0m\u001b[01;34mresultados-31-01\u001b[0m/\r\n"
+      " Caso_de_perder_data.ipynb              exp_final_6.0.ipynb\r\n",
+      "'Copia de Caso_de_perder_data..ipynb'   exp_final_7.0.ipynb\r\n",
+      " \u001b[0m\u001b[01;34mDATABASE-PRIVATE\u001b[0m/                      exp_final_8.0.ipynb\r\n",
+      " exp_final_10.0.ipynb                   exp_final_9.0.ipynb\r\n",
+      " exp_final_1.0.ipynb                    guardar-modelos-ejecutados.ipynb\r\n",
+      " exp_final_2.0.ipynb                    requirements.txt\r\n",
+      " exp_final_3.0.ipynb                    \u001b[01;34mresultados-31-01\u001b[0m/\r\n",
+      " exp_final_4.0.ipynb                    Resultados_final.2.0.ipynb\r\n",
+      " exp_final_5.0.ipynb                    script.sh\r\n"
      ]
     }
    ],
@@ -73,7 +81,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "/root/notebooks/prueba/resultados-31-01\n"
+      "/root/notebooks/resultados-31-01\n"
      ]
     }
    ],
@@ -91,9 +99,9 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\u001b[0m\u001b[01;34mprueba\u001b[0m/         Prueba2.0.csv  Prueba5.0.csv  Prueba8.0.csv\r\n",
+      "prueba          Prueba2.0.csv  Prueba5.0.csv  Prueba8.0.csv  README.md\r\n",
       "Prueba10.0.csv  Prueba3.0.csv  Prueba6.0.csv  Prueba9.0.csv\r\n",
-      "Prueba1.0.csv   Prueba4.0.csv  Prueba7.0.csv  README.md\r\n"
+      "Prueba1.0.csv   Prueba4.0.csv  Prueba7.0.csv  prueba.csv\r\n"
      ]
     }
    ],
